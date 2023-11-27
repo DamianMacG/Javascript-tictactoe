@@ -6,6 +6,7 @@ let board = [
   ["", "", ""],
 ];
 
+
 let currentPlayer = "X";
 let gameOver = false;
 let playerOneScore = 0;
